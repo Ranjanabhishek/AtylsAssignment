@@ -41,7 +41,7 @@ Please provide GitHub link to application.
 
 #Documentation
    - main.py -> Assignment development is done in this file
-        - fetches 5 page from given ur
+        - fetches 5 page from given url
         - scrap data with retry 
         - Exception handling
         - save data in json file
