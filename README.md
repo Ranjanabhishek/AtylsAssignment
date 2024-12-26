@@ -36,3 +36,14 @@ Your task is to design and implement this tool, keeping in mind the following gu
 You are encouraged to make design decisions based on your understanding of the problem and the requirements provided, but usage of object oriented approach with abstractions will be considered as an advantage.
 
 Please provide GitHub link to application.
+
+
+
+#Documentation
+   - main.py -> Assignment development is done in this file
+        - fetches 5 page from given ur
+        - scrap data with retry 
+        - Exception handling
+        - save data in json file
+
+       - To run this code please write: python3 main.py
